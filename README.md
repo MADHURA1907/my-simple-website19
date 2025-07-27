@@ -42,9 +42,7 @@ This simple travel blog is not just a static page — it’s my **first step int
 
 ## 📁 Project Files
 
-
 ├── index.html
----
 ├── README.md
 ---
 
