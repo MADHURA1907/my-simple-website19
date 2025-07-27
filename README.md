@@ -34,7 +34,7 @@ To preview the site:
 
 ![Greece Trip](https://cdn.codechef.com/Learning/Greece.webp) 
 
-*Insert a screenshot or image from your trip here (optional).*
+
 
 ## 🚀 How to Use
 
