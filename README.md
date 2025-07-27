@@ -43,8 +43,8 @@ This simple travel blog is not just a static page — it’s my **first step int
 ## 📁 Project Files
 
 
-├── index.html # Main HTML file with all travel content
-├── README.md # This file, explaining the purpose and structure
+├── index.html
+├── README.md
 ---
 
 ## 🖼️ Preview
